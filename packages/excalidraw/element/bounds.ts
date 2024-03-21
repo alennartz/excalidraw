@@ -507,7 +507,7 @@ export const getArrowheadSize = (arrowhead: Arrowhead): number => {
       return 25;
     case "diamond":
     case "diamond_outline":
-      return 12;
+      return 18;
     default:
       return 15;
   }
